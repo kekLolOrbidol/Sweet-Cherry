@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sweet Cherry</string>
+    <string name="safe">Safe</string>
+    <string name="mine">Mine</string>
+    <string name="choose_text">Select the size of your Mine Field</string>
+    <string name="play">Play</string>
+    <string name="score_text">Game History\n</string>
+    <string name="new_game">New Game</string>
+    <string name="board_8_by_8_10_mines">8 by 8, 10 Mines</string>
+    <string name="board_12_by_16_30_mines">12 by 16, 30 Mines</string>
+    <string name="board_16_by_16_40_mines">16 by 16, 40 Mines</string>
+    <string name="board_16_by_30_99_mines">16 by 30, 99 Mines</string>
+    <string name="custom">Custom</string>
+    <string name="columns">Columns:</string>
+    <string name="facebook_app_id">3516946105065092</string> <string name="fb_login_protocol_scheme">fb3516946105065092</string>
+
+    <string name="rows">Rows:</string>
+</resources>
